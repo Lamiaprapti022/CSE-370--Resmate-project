@@ -1,0 +1,13 @@
+{
+    "name": "naved/res-mate",
+    "authors": [
+        {
+            "name": "Naved Abrar Nibir",
+            "email": "navedabrar80@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
